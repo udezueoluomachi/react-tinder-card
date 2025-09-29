@@ -1,6 +1,6 @@
 {
   "name": "react-tinder-card-react19",
-  "version": "1.6.5",
+  "version": "1.6.6",
   "description": "A npm react module for making react elements swipeable like in the dating app tinder.",
   "repository": "udezueoluomachi/react-tinder-card",
   "license": "MIT",
@@ -22,8 +22,8 @@
     "ts-readme-generator": "^0.7.2"
   },
   "peerDependencies": {
-    "@react-spring/native": "^9.5.5",
-    "@react-spring/web": "^9.5.5",
+    "@react-spring/native": "^10.0.3",
+    "@react-spring/web": "^10.0.3",
     "react": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
   },
   "peerDependenciesMeta": {
